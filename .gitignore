@@ -5,3 +5,8 @@
 obj/
 bin/
 Migrations/
+
+
+# Ignore user-specific files
+appsettings.Development.json
+appsettings.json
